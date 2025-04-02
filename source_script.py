@@ -12,7 +12,7 @@ all_cities = [x for x in all_cities if len(x)>3]
 # Define stub functions to be implemented later
 
 def extract_name(text):
-    return "My_Fourth_This_cool_NAME"
+    return "My_Sixth_This_cool_NAME"
 
 
 
